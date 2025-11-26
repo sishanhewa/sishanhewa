@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <i>Always learning, always building.</i>
+  <i>Neugier ist der Anfang von Wissen.</i>
 </p>
