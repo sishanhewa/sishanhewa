@@ -56,28 +56,6 @@
 
 ---
 
-## 📌 Featured Project
-<p align="left">
-  <a href="https://github.com/sishanhewa/Local-Video-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sishanhewa&repo=Local-Video-Downloader&cache_seconds=86400&v=1" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&hide_title=true&rank_icon=github&cache_seconds=86400&v=1" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&cache_seconds=86400&v=1" />
-</p>
-
----
-
-## 🏆 Highlights
-- Pull Shark achievement 🦈
-
 <p align="center">
   <i>Always learning, always building.</i>
 </p>
