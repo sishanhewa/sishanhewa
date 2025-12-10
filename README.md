@@ -43,12 +43,7 @@
 ### 📊 &nbsp; GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sishanhewa&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
