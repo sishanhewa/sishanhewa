@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">💻 &nbsp; Tech Stack</h3>
+<h3>💻 &nbsp; Tech Stack</h3>
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 <br/>
 
-<h3 align="center">📊 &nbsp; GitHub Stats</h3>
+<h3>📊 &nbsp; GitHub Stats</h3>
 
 <div align="center">
 
