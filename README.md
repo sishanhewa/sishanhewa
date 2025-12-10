@@ -29,7 +29,7 @@
 
 ---
 
-### 💻 &nbsp; Tech Stack
+<h3 align="center">💻 &nbsp; Tech Stack</h3>
 
 <div align="center">
 
@@ -44,12 +44,26 @@
 </div>
 
 <br/>
-### 📊 &nbsp; GitHub Stats
+
+<h3 align="center">📊 &nbsp; GitHub Stats</h3>
 
 <div align="center">
+
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sishanhewa&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sishanhewa&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
+  
+  <br/>
+
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    </a>
+  </p>
+
 </div>
 
 <br/>
