@@ -44,29 +44,40 @@
 </div>
 
 <br/>
-
+<!-- GitHub Stats (fixed mirrors) -->
 <h3>📊 &nbsp; GitHub Stats</h3>
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sishanhewa&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak (mirror) -->
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener">
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats-git-masterorgs-streak-stats-team.vercel.app?user=sishanhewa&theme=radical&hide_border=true"
+    />
   </a>
-  
+
   <br/>
 
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <!-- Overall stats (mirror) -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true&cache_seconds=0"
+      />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+    <!-- Top languages (mirror) -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=0"
+      />
     </a>
   </p>
 
 </div>
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat-square&color=fe428e" />
 </div>
