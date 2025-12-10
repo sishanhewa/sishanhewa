@@ -1,7 +1,11 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad" />
+    </picture>
   </a>
 
   <h3>
@@ -43,8 +47,9 @@
 ### 📊 &nbsp; GitHub Stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sishanhewa&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sishanhewa&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
