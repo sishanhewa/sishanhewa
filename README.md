@@ -1,21 +1,29 @@
 <div align="center">
 
-# Hi, I'm Sishan 👋
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad" />
+    </picture>
+  </a>
 
-### 🎓 BSc (Hons) in Information Technology
-**Specializing in Software Engineering** at **SLIIT** 🇱🇰
+  <h3>
+    BSc (Hons) in Information Technology<br/>
+    Specialising in <b>Software Engineering</b> at <b>SLIIT</b> 🇱🇰
+  </h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/sishan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/sishan.a" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/share/16mJu9kY1Q/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/sishan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/sishan.a" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/share/16mJu9kY1Q/?mibextid=wwXIfr" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
@@ -50,25 +58,34 @@
 
 ---
 
-## 📊 GitHub Stats
+<br/>
+
+<h3>📊 &nbsp; GitHub Stats</h3>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20Views&style=flat-square&color=fe428e)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Neugier ist der Anfang von Wissen."</i>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sishanhewa&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
   <br/>
-  <sub>(Curiosity is the beginning of knowledge.)</sub>
+
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    </a>
+  </p>
+
 </div>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat-square&color=fe428e" />
+</div>
+
+<p align="center">
+  <i>"Neugier ist der Anfang von Wissen."</i>
+</p>
