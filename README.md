@@ -40,22 +40,15 @@
 </div>
 
 <br/>
-
 ### 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -64,8 +57,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat-square&color=fe428e" />
 </div>
-
----
 
 <p align="center">
   <i>"Neugier ist der Anfang von Wissen."</i>
