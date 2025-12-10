@@ -1,61 +1,68 @@
-<!-- Profile README for github.com/sishanhewa -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Sishan 👋</h1>
-<p align="center">
-  <b>Self-taught Developer</b> · <b>Software Engineering Undergraduate</b>
-</p>
-<p align="center">
-  BSc (Hons) in Information Technology<br/>
-  Specialising in <b>Software Engineering</b> at <b>SLIIT</b> 🇱🇰
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/sishan.a" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sishan+%F0%9F%91%8B;Self-taught+Developer;Software+Engineering+Undergrad" alt="Typing SVG" />
   </a>
-  <a href="https://www.facebook.com/share/16mJu9kY1Q/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-000?style=flat&logo=facebook" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat" />
-  <img src="https://img.shields.io/github/followers/sishanhewa?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/sishanhewa?label=Stars&style=flat" />
-</p>
+  <h3>
+    BSc (Hons) in Information Technology<br/>
+    Specialising in <b>Software Engineering</b> at <b>SLIIT</b> 🇱🇰
+  </h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/sishan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/sishan.a" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/share/16mJu9kY1Q/?mibextid=wwXIfr" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+### 💻 &nbsp; Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-000?style=flat&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=mysql" />
-</p>
+<div align="center">
 
-### Frameworks & UI
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=flat&logo=springboot" />
-  <img src="https://img.shields.io/badge/JavaFX-000?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/React%20Native-000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Angular-000?style=flat&logo=angular" />
-</p>
+| **Languages** | **Frameworks** | **Tools & Cloud** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white) | ![JavaFX](https://img.shields.io/badge/JavaFX-02569B?style=flat-square&logo=java&logoColor=white) | |
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-000?style=flat&logo=oracle" />
-</p>
+</div>
+
+<br/>
+
+### 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat-square&color=blue" />
+</div>
 
 ---
 
 <p align="center">
-  <i>Neugier ist der Anfang von Wissen.</i>
+  <i>"Neugier ist der Anfang von Wissen."</i>
 </p>
