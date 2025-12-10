@@ -50,12 +50,16 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sishan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sishan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&color=fe428e&style=flat" />
 </p>
 
 ---
