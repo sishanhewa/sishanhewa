@@ -72,7 +72,7 @@
 
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eiwuxoni9-sishanhewas-projects.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sishanhewa&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
