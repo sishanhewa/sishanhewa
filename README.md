@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
 
   <a href="https://git.io/typing-svg">
     <picture>
@@ -25,7 +25,7 @@
   </p>
 
 </div>
-
+ 
 ---
 
 ## 💻 Tech Stack
