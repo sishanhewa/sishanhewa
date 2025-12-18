@@ -1,4 +1,4 @@
-7<div align="center">
+<div align="center">
 
   <a href="https://git.io/typing-svg">
     <picture>
@@ -60,11 +60,10 @@
 <br/>
 
 <h3>📊 &nbsp; GitHub Stats</h3>
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=sishanhewa&theme=radical&hide_border=true"
+      src="https://streak-stats.demolab.com?user=sishanhewa&theme=radical&hide_border=true&cache_seconds=86400"
       alt="GitHub Streak"
     />
   </a>
