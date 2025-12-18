@@ -78,5 +78,5 @@
 </div>
 
 <p align="center">
-  <i>"Neugier ist der Anfang von Wissen."</i>
+  <sub><em>“Neugier ist der Anfang von Wissen.”</em></sub>
 </p>
