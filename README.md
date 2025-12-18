@@ -63,11 +63,15 @@
 
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sishanhewa&show_icons=true&theme=radical&hide_border=true"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
 <br/>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sishanhewa&label=Profile%20views&style=flat-square&color=fe428e" />
