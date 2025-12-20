@@ -60,14 +60,16 @@
 <br/>
 
 <h3>📊 &nbsp; GitHub Stats</h3>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=sishanhewa&theme=radical&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
 </div>
+<br/>
 <br/>
 
 
