@@ -64,7 +64,7 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sishanhewa&theme=radical&hide_border=true&cache_seconds=1"
+      src="https://streak-stats.demolab.com/?user=sishanhewa&theme=radical&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
