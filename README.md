@@ -60,7 +60,6 @@
 <br/>
 
 <h3>📊 &nbsp; GitHub Stats</h3>
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
